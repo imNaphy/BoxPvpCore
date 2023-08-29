@@ -1,0 +1,12 @@
+name: BoxPvpCore
+version: '${project.version}'
+main: me.naphy.boxpvpcore.BoxPvpCore
+api-version: '1.19'
+author: naphy
+commands:
+  givesavinggrace:
+    description: Gives the saving grace.
+    usage: /<command> <args>
+  givecobweb:
+    description: Gives the cobweb.
+    usage: /<command> <args>
